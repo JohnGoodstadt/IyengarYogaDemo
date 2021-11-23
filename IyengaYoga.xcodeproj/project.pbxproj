@@ -1,0 +1,614 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		75FC1CF42746B71000FFA7F0 /* ExternalWeblinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A104CC125193BDE00585C5E /* ExternalWeblinkView.swift */; };
+		75FC1CF52746B71000FFA7F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA193E0250E68490048385D /* ContentView.swift */; };
+		75FC1CF62746B71000FFA7F0 /* AnimalListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABA6DAD25122CFA0055EC8F /* AnimalListItemView.swift */; };
+		75FC1CF72746B71000FFA7F0 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA19412250E78260048385D /* MainView.swift */; };
+		75FC1CF82746B71000FFA7F0 /* InsetFactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2E2B8225192DF600124A4E /* InsetFactView.swift */; };
+		75FC1CF92746B71000FFA7F0 /* InsetPlayMP3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7540F4712743CE6C00E47C43 /* InsetPlayMP3View.swift */; };
+		75FC1CFA2746B71000FFA7F0 /* CoverImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2BF6E6251124B0001058E1 /* CoverImageView.swift */; };
+		75FC1CFB2746B71000FFA7F0 /* CoverImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2BF6E9251127BA001058E1 /* CoverImageModel.swift */; };
+		75FC1CFC2746B71000FFA7F0 /* AnimalDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC26CFF25165DBE00FE7EAB /* AnimalDetailView.swift */; };
+		75FC1CFD2746B71000FFA7F0 /* AnimalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABA6DB0251230B60055EC8F /* AnimalModel.swift */; };
+		75FC1CFE2746B71000FFA7F0 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA1940E250E779D0048385D /* MapView.swift */; };
+		75FC1CFF2746B71000FFA7F0 /* AudioPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 750DD9532743F12200D784D7 /* AudioPlayerHelper.swift */; };
+		75FC1D002746B71000FFA7F0 /* LibraryMP3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 750DD9572743F4F200D784D7 /* LibraryMP3.swift */; };
+		75FC1D012746B71000FFA7F0 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1E3AC6251CF5050058DC4A /* VideoPlayerHelper.swift */; };
+		75FC1D022746B71000FFA7F0 /* InsetMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2E2B852519346100124A4E /* InsetMapView.swift */; };
+		75FC1D032746B71000FFA7F0 /* IyengaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA193DE250E68490048385D /* IyengaApp.swift */; };
+		75FC1D042746B71000FFA7F0 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A76331E252DB31D008185E5 /* MapAnnotationView.swift */; };
+		75FC1D052746B71000FFA7F0 /* VideoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA1940C250E77570048385D /* VideoListView.swift */; };
+		75FC1D062746B71000FFA7F0 /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0BF750251CAB03001AFFD3 /* VideoModel.swift */; };
+		75FC1D072746B71000FFA7F0 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 750DD96A27445F2800D784D7 /* Extensions.swift */; };
+		75FC1D082746B71000FFA7F0 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA19410250E77EE0048385D /* GalleryView.swift */; };
+		75FC1D092746B71000FFA7F0 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A4620B0252CB5DF0083293A /* LocationModel.swift */; };
+		75FC1D0A2746B71000FFA7F0 /* AnimalGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6B32C6253E3767007601D0 /* AnimalGridItemView.swift */; };
+		75FC1D0B2746B71000FFA7F0 /* InsetGalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC26D052516669F00FE7EAB /* InsetGalleryView.swift */; };
+		75FC1D0C2746B71000FFA7F0 /* VideoListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0BF753251CAB66001AFFD3 /* VideoListItemView.swift */; };
+		75FC1D0D2746B71000FFA7F0 /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A69A7522543038800B8D98E /* CreditsView.swift */; };
+		75FC1D0E2746B71000FFA7F0 /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2BF6EC2511288F001058E1 /* CodableBundleExtension.swift */; };
+		75FC1D0F2746B71000FFA7F0 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1DB3A525323CDB00BA4830 /* MotionAnimationView.swift */; };
+		75FC1D102746B71000FFA7F0 /* CenterModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A69A757254307AF00B8D98E /* CenterModifier.swift */; };
+		75FC1D112746B71000FFA7F0 /* HeadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC26D022516636400FE7EAB /* HeadingView.swift */; };
+		75FC1D122746B71000FFA7F0 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1E3AC2251CF2750058DC4A /* VideoPlayerView.swift */; };
+		75FC1D152746B71000FFA7F0 /* animals.json in Resources */ = {isa = PBXBuildFile; fileRef = 3AA19405250E72990048385D /* animals.json */; };
+		75FC1D172746B71000FFA7F0 /* gomukhasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD95E27445C5000D784D7 /* gomukhasana.mp3 */; };
+		75FC1D182746B71000FFA7F0 /* Gomukhasana-arms-only_video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7540F46B2742BB9D00E47C43 /* Gomukhasana-arms-only_video.mp4 */; };
+		75FC1D192746B71000FFA7F0 /* uttanasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD96027445C5100D784D7 /* uttanasana.mp3 */; };
+		75FC1D1A2746B71000FFA7F0 /* halasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD95C27445C5000D784D7 /* halasana.mp3 */; };
+		75FC1D1B2746B71000FFA7F0 /* dandasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD9512743F0B500D784D7 /* dandasana.mp3 */; };
+		75FC1D1C2746B71000FFA7F0 /* tadasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD96127445C5100D784D7 /* tadasana.mp3 */; };
+		75FC1D1D2746B71000FFA7F0 /* locations.json in Resources */ = {isa = PBXBuildFile; fileRef = 3AA19406250E72990048385D /* locations.json */; };
+		75FC1D1E2746B71000FFA7F0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AA193E5250E684A0048385D /* Preview Assets.xcassets */; };
+		75FC1D1F2746B71000FFA7F0 /* bharadvajasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD95F27445C5000D784D7 /* bharadvajasana.mp3 */; };
+		75FC1D202746B71000FFA7F0 /* dhanurasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD96227445C5100D784D7 /* dhanurasana.mp3 */; };
+		75FC1D232746B71000FFA7F0 /* adhomukhasvanasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD96C27446C2100D784D7 /* adhomukhasvanasana.mp3 */; };
+		75FC1D242746B71000FFA7F0 /* videos.json in Resources */ = {isa = PBXBuildFile; fileRef = 3AA19403250E72990048385D /* videos.json */; };
+		75FC1D272746B71000FFA7F0 /* covers.json in Resources */ = {isa = PBXBuildFile; fileRef = 3AA19404250E72990048385D /* covers.json */; };
+		75FC1D2B2746B71000FFA7F0 /* tadasana.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7540F46D2742D7DA00E47C43 /* tadasana.mp4 */; };
+		75FC1D2C2746B71000FFA7F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AA193E2250E684A0048385D /* Assets.xcassets */; };
+		75FC1D2E2746B71000FFA7F0 /* vrksasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD95D27445C5000D784D7 /* vrksasana.mp3 */; };
+		75FC1D382746D45100FFA7F0 /* ViewModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FC1D372746D45100FFA7F0 /* ViewModifiers.swift */; };
+		75FC1D3B2746D88B00FFA7F0 /* PrimaryButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FC1D3A2746D88B00FFA7F0 /* PrimaryButtonStyle.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		75FC1D302746B71000FFA7F0 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		3A0BF750251CAB03001AFFD3 /* VideoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
+		3A0BF753251CAB66001AFFD3 /* VideoListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItemView.swift; sourceTree = "<group>"; };
+		3A104CC125193BDE00585C5E /* ExternalWeblinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExternalWeblinkView.swift; sourceTree = "<group>"; };
+		3A1DB3A525323CDB00BA4830 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
+		3A1E3AC2251CF2750058DC4A /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
+		3A1E3AC6251CF5050058DC4A /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
+		3A2BF6E6251124B0001058E1 /* CoverImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageView.swift; sourceTree = "<group>"; };
+		3A2BF6E9251127BA001058E1 /* CoverImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageModel.swift; sourceTree = "<group>"; };
+		3A2BF6EC2511288F001058E1 /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
+		3A2E2B8225192DF600124A4E /* InsetFactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetFactView.swift; sourceTree = "<group>"; };
+		3A2E2B852519346100124A4E /* InsetMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetMapView.swift; sourceTree = "<group>"; };
+		3A4620B0252CB5DF0083293A /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
+		3A69A7522543038800B8D98E /* CreditsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsView.swift; sourceTree = "<group>"; };
+		3A69A757254307AF00B8D98E /* CenterModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenterModifier.swift; sourceTree = "<group>"; };
+		3A6B32C6253E3767007601D0 /* AnimalGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGridItemView.swift; sourceTree = "<group>"; };
+		3A76331E252DB31D008185E5 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
+		3AA193DE250E68490048385D /* IyengaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IyengaApp.swift; sourceTree = "<group>"; };
+		3AA193E0250E68490048385D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3AA193E2250E684A0048385D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3AA193E5250E684A0048385D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3AA193E7250E684A0048385D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3AA19403250E72990048385D /* videos.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = videos.json; sourceTree = "<group>"; };
+		3AA19404250E72990048385D /* covers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = covers.json; sourceTree = "<group>"; };
+		3AA19405250E72990048385D /* animals.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = animals.json; sourceTree = "<group>"; };
+		3AA19406250E72990048385D /* locations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = locations.json; sourceTree = "<group>"; };
+		3AA1940C250E77570048385D /* VideoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListView.swift; sourceTree = "<group>"; };
+		3AA1940E250E779D0048385D /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		3AA19410250E77EE0048385D /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
+		3AA19412250E78260048385D /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		3ABA6DAD25122CFA0055EC8F /* AnimalListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListItemView.swift; sourceTree = "<group>"; };
+		3ABA6DB0251230B60055EC8F /* AnimalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalModel.swift; sourceTree = "<group>"; };
+		3AC26CFF25165DBE00FE7EAB /* AnimalDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalDetailView.swift; sourceTree = "<group>"; };
+		3AC26D022516636400FE7EAB /* HeadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadingView.swift; sourceTree = "<group>"; };
+		3AC26D052516669F00FE7EAB /* InsetGalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetGalleryView.swift; sourceTree = "<group>"; };
+		750DD9512743F0B500D784D7 /* dandasana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dandasana.mp3; sourceTree = "<group>"; };
+		750DD9532743F12200D784D7 /* AudioPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerHelper.swift; sourceTree = "<group>"; };
+		750DD9572743F4F200D784D7 /* LibraryMP3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryMP3.swift; sourceTree = "<group>"; };
+		750DD95C27445C5000D784D7 /* halasana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = halasana.mp3; sourceTree = "<group>"; };
+		750DD95D27445C5000D784D7 /* vrksasana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = vrksasana.mp3; sourceTree = "<group>"; };
+		750DD95E27445C5000D784D7 /* gomukhasana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gomukhasana.mp3; sourceTree = "<group>"; };
+		750DD95F27445C5000D784D7 /* bharadvajasana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bharadvajasana.mp3; sourceTree = "<group>"; };
+		750DD96027445C5100D784D7 /* uttanasana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = uttanasana.mp3; sourceTree = "<group>"; };
+		750DD96127445C5100D784D7 /* tadasana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tadasana.mp3; sourceTree = "<group>"; };
+		750DD96227445C5100D784D7 /* dhanurasana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dhanurasana.mp3; sourceTree = "<group>"; };
+		750DD96A27445F2800D784D7 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		750DD96C27446C2100D784D7 /* adhomukhasvanasana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = adhomukhasvanasana.mp3; sourceTree = "<group>"; };
+		7540F46B2742BB9D00E47C43 /* Gomukhasana-arms-only_video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gomukhasana-arms-only_video.mp4"; sourceTree = "<group>"; };
+		7540F46D2742D7DA00E47C43 /* tadasana.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = tadasana.mp4; sourceTree = "<group>"; };
+		7540F4712743CE6C00E47C43 /* InsetPlayMP3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetPlayMP3View.swift; sourceTree = "<group>"; };
+		75FC1D352746B71000FFA7F0 /* IyengarYoga.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IyengarYoga.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		75FC1D362746B71100FFA7F0 /* IyengaYoga-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "IyengaYoga-Info.plist"; path = "/Users/johngoodstadt/Docs/Development/IyengarFromAfrica/SWIFTUI-APP-AFRICA/Completed/Africa/IyengaYoga-Info.plist"; sourceTree = "<absolute>"; };
+		75FC1D372746D45100FFA7F0 /* ViewModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifiers.swift; sourceTree = "<group>"; };
+		75FC1D3A2746D88B00FFA7F0 /* PrimaryButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimaryButtonStyle.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		75FC1D132746B71000FFA7F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3A1E3AC5251CF4DF0058DC4A /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				3A1E3AC6251CF5050058DC4A /* VideoPlayerHelper.swift */,
+				750DD9532743F12200D784D7 /* AudioPlayerHelper.swift */,
+				750DD9572743F4F200D784D7 /* LibraryMP3.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		3A2BF6E525112490001058E1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3AC26CFF25165DBE00FE7EAB /* AnimalDetailView.swift */,
+				3A6B32C6253E3767007601D0 /* AnimalGridItemView.swift */,
+				3ABA6DAD25122CFA0055EC8F /* AnimalListItemView.swift */,
+				3A2BF6E6251124B0001058E1 /* CoverImageView.swift */,
+				3A69A7522543038800B8D98E /* CreditsView.swift */,
+				3A104CC125193BDE00585C5E /* ExternalWeblinkView.swift */,
+				3AC26D022516636400FE7EAB /* HeadingView.swift */,
+				3A2E2B8225192DF600124A4E /* InsetFactView.swift */,
+				3AC26D052516669F00FE7EAB /* InsetGalleryView.swift */,
+				3A2E2B852519346100124A4E /* InsetMapView.swift */,
+				7540F4712743CE6C00E47C43 /* InsetPlayMP3View.swift */,
+				3A76331E252DB31D008185E5 /* MapAnnotationView.swift */,
+				3A1DB3A525323CDB00BA4830 /* MotionAnimationView.swift */,
+				3A0BF753251CAB66001AFFD3 /* VideoListItemView.swift */,
+				3A1E3AC2251CF2750058DC4A /* VideoPlayerView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3A2BF6E82511279A001058E1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3ABA6DB0251230B60055EC8F /* AnimalModel.swift */,
+				3A2BF6E9251127BA001058E1 /* CoverImageModel.swift */,
+				3A4620B0252CB5DF0083293A /* LocationModel.swift */,
+				3A0BF750251CAB03001AFFD3 /* VideoModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3A2BF6EB25112869001058E1 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				3A2BF6EC2511288F001058E1 /* CodableBundleExtension.swift */,
+				750DD96A27445F2800D784D7 /* Extensions.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		3A69A7562543078A00B8D98E /* Modifier */ = {
+			isa = PBXGroup;
+			children = (
+				3A69A757254307AF00B8D98E /* CenterModifier.swift */,
+				75FC1D372746D45100FFA7F0 /* ViewModifiers.swift */,
+			);
+			path = Modifier;
+			sourceTree = "<group>";
+		};
+		3AA193D2250E68490048385D = {
+			isa = PBXGroup;
+			children = (
+				3AA193DD250E68490048385D /* IyengarYoga */,
+				3AA193DC250E68490048385D /* Products */,
+				75FC1D362746B71100FFA7F0 /* IyengaYoga-Info.plist */,
+			);
+			sourceTree = "<group>";
+		};
+		3AA193DC250E68490048385D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				75FC1D352746B71000FFA7F0 /* IyengarYoga.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3AA193DD250E68490048385D /* IyengarYoga */ = {
+			isa = PBXGroup;
+			children = (
+				3AA1940B250E76860048385D /* App */,
+				3A2BF6E525112490001058E1 /* View */,
+				3A2BF6EB25112869001058E1 /* Extension */,
+				3A69A7562543078A00B8D98E /* Modifier */,
+				75FC1D392746D87300FFA7F0 /* Styles */,
+				3A1E3AC5251CF4DF0058DC4A /* Helper */,
+				3A2BF6E82511279A001058E1 /* Model */,
+				3AA19402250E72680048385D /* Data */,
+				3AA193ED250E71A20048385D /* Video */,
+				750DD94E2743F03200D784D7 /* Audio */,
+				3AA193E2250E684A0048385D /* Assets.xcassets */,
+				3AA193E7250E684A0048385D /* Info.plist */,
+				3AA193E4250E684A0048385D /* Preview Content */,
+			);
+			path = IyengarYoga;
+			sourceTree = "<group>";
+		};
+		3AA193E4250E684A0048385D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				3AA193E5250E684A0048385D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3AA193ED250E71A20048385D /* Video */ = {
+			isa = PBXGroup;
+			children = (
+				7540F46D2742D7DA00E47C43 /* tadasana.mp4 */,
+				7540F46B2742BB9D00E47C43 /* Gomukhasana-arms-only_video.mp4 */,
+			);
+			path = Video;
+			sourceTree = "<group>";
+		};
+		3AA19402250E72680048385D /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				3AA19405250E72990048385D /* animals.json */,
+				3AA19404250E72990048385D /* covers.json */,
+				3AA19406250E72990048385D /* locations.json */,
+				3AA19403250E72990048385D /* videos.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		3AA1940B250E76860048385D /* App */ = {
+			isa = PBXGroup;
+			children = (
+				3AA193DE250E68490048385D /* IyengaApp.swift */,
+				3AA193E0250E68490048385D /* ContentView.swift */,
+				3AA19410250E77EE0048385D /* GalleryView.swift */,
+				3AA19412250E78260048385D /* MainView.swift */,
+				3AA1940E250E779D0048385D /* MapView.swift */,
+				3AA1940C250E77570048385D /* VideoListView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		750DD94E2743F03200D784D7 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				750DD96C27446C2100D784D7 /* adhomukhasvanasana.mp3 */,
+				750DD95F27445C5000D784D7 /* bharadvajasana.mp3 */,
+				750DD96227445C5100D784D7 /* dhanurasana.mp3 */,
+				750DD95E27445C5000D784D7 /* gomukhasana.mp3 */,
+				750DD95C27445C5000D784D7 /* halasana.mp3 */,
+				750DD96127445C5100D784D7 /* tadasana.mp3 */,
+				750DD96027445C5100D784D7 /* uttanasana.mp3 */,
+				750DD95D27445C5000D784D7 /* vrksasana.mp3 */,
+				750DD9512743F0B500D784D7 /* dandasana.mp3 */,
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+		75FC1D392746D87300FFA7F0 /* Styles */ = {
+			isa = PBXGroup;
+			children = (
+				75FC1D3A2746D88B00FFA7F0 /* PrimaryButtonStyle.swift */,
+			);
+			path = Styles;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		75FC1CF02746B71000FFA7F0 /* IyengarYoga */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75FC1D322746B71000FFA7F0 /* Build configuration list for PBXNativeTarget "IyengarYoga" */;
+			buildPhases = (
+				75FC1CF32746B71000FFA7F0 /* Sources */,
+				75FC1D132746B71000FFA7F0 /* Frameworks */,
+				75FC1D142746B71000FFA7F0 /* Resources */,
+				75FC1D302746B71000FFA7F0 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = IyengarYoga;
+			productName = Africa;
+			productReference = 75FC1D352746B71000FFA7F0 /* IyengarYoga.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3AA193D3250E68490048385D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+			};
+			buildConfigurationList = 3AA193D6250E68490048385D /* Build configuration list for PBXProject "IyengaYoga" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3AA193D2250E68490048385D;
+			productRefGroup = 3AA193DC250E68490048385D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				75FC1CF02746B71000FFA7F0 /* IyengarYoga */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		75FC1D142746B71000FFA7F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				75FC1D152746B71000FFA7F0 /* animals.json in Resources */,
+				75FC1D172746B71000FFA7F0 /* gomukhasana.mp3 in Resources */,
+				75FC1D182746B71000FFA7F0 /* Gomukhasana-arms-only_video.mp4 in Resources */,
+				75FC1D192746B71000FFA7F0 /* uttanasana.mp3 in Resources */,
+				75FC1D1A2746B71000FFA7F0 /* halasana.mp3 in Resources */,
+				75FC1D1B2746B71000FFA7F0 /* dandasana.mp3 in Resources */,
+				75FC1D1C2746B71000FFA7F0 /* tadasana.mp3 in Resources */,
+				75FC1D1D2746B71000FFA7F0 /* locations.json in Resources */,
+				75FC1D1E2746B71000FFA7F0 /* Preview Assets.xcassets in Resources */,
+				75FC1D1F2746B71000FFA7F0 /* bharadvajasana.mp3 in Resources */,
+				75FC1D202746B71000FFA7F0 /* dhanurasana.mp3 in Resources */,
+				75FC1D232746B71000FFA7F0 /* adhomukhasvanasana.mp3 in Resources */,
+				75FC1D242746B71000FFA7F0 /* videos.json in Resources */,
+				75FC1D272746B71000FFA7F0 /* covers.json in Resources */,
+				75FC1D2B2746B71000FFA7F0 /* tadasana.mp4 in Resources */,
+				75FC1D2C2746B71000FFA7F0 /* Assets.xcassets in Resources */,
+				75FC1D2E2746B71000FFA7F0 /* vrksasana.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		75FC1CF32746B71000FFA7F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				75FC1CF42746B71000FFA7F0 /* ExternalWeblinkView.swift in Sources */,
+				75FC1CF52746B71000FFA7F0 /* ContentView.swift in Sources */,
+				75FC1CF62746B71000FFA7F0 /* AnimalListItemView.swift in Sources */,
+				75FC1CF72746B71000FFA7F0 /* MainView.swift in Sources */,
+				75FC1CF82746B71000FFA7F0 /* InsetFactView.swift in Sources */,
+				75FC1CF92746B71000FFA7F0 /* InsetPlayMP3View.swift in Sources */,
+				75FC1CFA2746B71000FFA7F0 /* CoverImageView.swift in Sources */,
+				75FC1CFB2746B71000FFA7F0 /* CoverImageModel.swift in Sources */,
+				75FC1CFC2746B71000FFA7F0 /* AnimalDetailView.swift in Sources */,
+				75FC1D3B2746D88B00FFA7F0 /* PrimaryButtonStyle.swift in Sources */,
+				75FC1CFD2746B71000FFA7F0 /* AnimalModel.swift in Sources */,
+				75FC1CFE2746B71000FFA7F0 /* MapView.swift in Sources */,
+				75FC1D382746D45100FFA7F0 /* ViewModifiers.swift in Sources */,
+				75FC1CFF2746B71000FFA7F0 /* AudioPlayerHelper.swift in Sources */,
+				75FC1D002746B71000FFA7F0 /* LibraryMP3.swift in Sources */,
+				75FC1D012746B71000FFA7F0 /* VideoPlayerHelper.swift in Sources */,
+				75FC1D022746B71000FFA7F0 /* InsetMapView.swift in Sources */,
+				75FC1D032746B71000FFA7F0 /* IyengaApp.swift in Sources */,
+				75FC1D042746B71000FFA7F0 /* MapAnnotationView.swift in Sources */,
+				75FC1D052746B71000FFA7F0 /* VideoListView.swift in Sources */,
+				75FC1D062746B71000FFA7F0 /* VideoModel.swift in Sources */,
+				75FC1D072746B71000FFA7F0 /* Extensions.swift in Sources */,
+				75FC1D082746B71000FFA7F0 /* GalleryView.swift in Sources */,
+				75FC1D092746B71000FFA7F0 /* LocationModel.swift in Sources */,
+				75FC1D0A2746B71000FFA7F0 /* AnimalGridItemView.swift in Sources */,
+				75FC1D0B2746B71000FFA7F0 /* InsetGalleryView.swift in Sources */,
+				75FC1D0C2746B71000FFA7F0 /* VideoListItemView.swift in Sources */,
+				75FC1D0D2746B71000FFA7F0 /* CreditsView.swift in Sources */,
+				75FC1D0E2746B71000FFA7F0 /* CodableBundleExtension.swift in Sources */,
+				75FC1D0F2746B71000FFA7F0 /* MotionAnimationView.swift in Sources */,
+				75FC1D102746B71000FFA7F0 /* CenterModifier.swift in Sources */,
+				75FC1D112746B71000FFA7F0 /* HeadingView.swift in Sources */,
+				75FC1D122746B71000FFA7F0 /* VideoPlayerView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3AA193E8250E684A0048385D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3AA193E9250E684A0048385D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		75FC1D332746B71000FFA7F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = IyengarYoga/IyengarYoga.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEVELOPMENT_ASSET_PATHS = "\"IyengarYoga/Preview Content\"";
+				DEVELOPMENT_TEAM = 34GH77B7MS;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "IyengaYoga-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.johngoodstadt.memorize.yoga.myenga;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		75FC1D342746B71000FFA7F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = IyengarYoga/IyengarYoga.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEVELOPMENT_ASSET_PATHS = "\"IyengarYoga/Preview Content\"";
+				DEVELOPMENT_TEAM = 34GH77B7MS;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "IyengaYoga-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.johngoodstadt.memorize.yoga.myenga;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3AA193D6250E68490048385D /* Build configuration list for PBXProject "IyengaYoga" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3AA193E8250E684A0048385D /* Debug */,
+				3AA193E9250E684A0048385D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75FC1D322746B71000FFA7F0 /* Build configuration list for PBXNativeTarget "IyengarYoga" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75FC1D332746B71000FFA7F0 /* Debug */,
+				75FC1D342746B71000FFA7F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3AA193D3250E68490048385D /* Project object */;
+}

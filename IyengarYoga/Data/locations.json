@@ -1,0 +1,44 @@
+[
+  {
+    "id" : "congleton",
+    "name" : "CONGLETON IYENGAR YOGA CENTRE",
+    "image" : "map-serengeti",
+    "latitude" : 53.16486,
+    "longitude" : -2.20823
+  },
+  {
+    "id" : "edinburgh",
+    "name" : "EDINBURGH IYENGAR YOGA CENTRE",
+    "image" : "map-kruger",
+    "latitude" : 55.93512,
+    "longitude" : -3.20968
+  },
+  {
+    "id" : "hereford",
+    "name" : "Hereford Yoga Centre ",
+    "image" : "map-chobe",
+    "latitude" : 52.05231,
+    "longitude" : -2.69983
+  },
+  {
+    "id" : "essex",
+    "name" : "IYENGAR YOGA CENTRE FOR ESSEX",
+    "image" : "map-kidepo",
+    "latitude" : 51.74250,
+    "longitude" : 0.50063
+  },
+  {
+    "id" : "hove",
+    "name" : "IYENGAR YOGA IN THE MEWS",
+    "image" : "map-etosha",
+    "latitude" : 50.82712,
+    "longitude" : -0.16920
+  },
+  {
+    "id" : "IYIMV",
+    "name" : "IYENGAR YOGA MAIDA VALE ",
+    "image" : "map-solonga",
+    "latitude" : 51.53224,
+    "longitude" : -0.18921
+  }
+]

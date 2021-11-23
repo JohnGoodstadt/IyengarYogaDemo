@@ -1,0 +1,47 @@
+[
+  {
+    "id" : "tadasana-main",
+    "name" : "Tāḍāsana",
+    "headline" : "Mountain Pose"
+  },
+  {
+    "id" : "halasana",
+    "name" : "Halāsana",
+    "headline" : "Plow Pose"
+  },
+  {
+    "id" : "utthita-t",
+    "name" : "Utthita-trikoṇāsana",
+    "headline" : "Triangle Pose"
+  },
+  {
+    "id" : "adho-mukha-svanasana",
+    "name" : "Adho Mukha Svanasana",
+    "headline" : "Downward Facing Dog"
+  },
+  {
+    "id" : "utthita-p",
+    "name" : "Utthita-pārśva-koṇāsana",
+    "headline" : "Side Angle Pose"
+  },
+  {
+    "id" : "ustrasana",
+    "name" : "Uṣṭrāsana",
+    "headline" : "Camel Pose"
+  },
+  {
+    "id" : "Gomukhasana-arms-only_video",
+    "name" : "Gomukhasana",
+    "headline" : "Arms movement for Gomukhasana"
+  },
+  {
+    "id" : "dandasana",
+    "name" : "Daṇḍāsana",
+    "headline" : "Staff Pose"
+  },
+  {
+    "id" : "dhanurasana",
+    "name" : "Dhanurāsana",
+    "headline" : "Bow Pose"
+  }
+]

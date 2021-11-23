@@ -1,0 +1,263 @@
+[{
+	"id": "dandasana",
+	"name": "Daṇḍāsana",
+	"headline": "Staff Pose",
+	"description": "Benefits: stretched hamstrings and spine",
+	"instructions": "Use a blanket to sit on. Use your hands to pull the sides of your gluteus muscle to the side to sit fully on your seat bones.Place your palms on the floor besides your hips. Extend your legs out to the front; feet, ankles, knees and thighs together (staff). Lift your sternum, extend the sides of your ribs from your hips up to your armpits, lift your ribcage, role your shoulders back and away from your ears; keep your keep your head, neck and buttocks in a straight line. Look straight ahead and breath.",
+	"contra": "support your spine against a wall, if you are asthmatic or your spine has a tendency to sag",
+	"link": "https://en.wikipedia.org/wiki/dandasana",
+	"image": "dandasana",
+	"gallery": ["dandasana-1",
+		"dandasana-2",
+		"dandasana-3",
+		"dandasana-4"],
+	
+	"fact":
+		[
+		"Relieves breathlessness, choking and throat congestion in asthmatics, reduces heartburn and flatulence, tones the abdominal organs and lifts sagging abdominal walls",
+		"Keep your fingers pointing forwards, allow your shoulder blades to move into your chest and down towards your waist, breath evenly",
+		"Regular practice improves your posture when seated"
+		],
+	"mp3name": "dandasana"
+  },
+  {
+	"id": "ustrasana",
+	"name": "Uṣṭrāsana",
+	"headline": "Camel",
+	"description": "Kneeling up you, bend backwards, steadying yourself with your palms on your feet. It Creates an uplifting opening in your chest and emotional centre",
+	"instructions": "You bend backwards while kneeling up on your knees and shins. Kneel on a folded blanket or extra matt to be more comfortable , Practice with props (chair or hands on bolster) if you have a migraine, knee problems or are prone to insomnia, Regular practice will relieve stiffness in the back, shoulders and ankles",
+	"contra": "",
+	"link": "https://en.wikipedia.org/wiki/ustrasana",
+	"image": "ustrasana-main",
+	"gallery": [
+	  "ustrasana-1",
+	  "ustrasana-2",
+	  "ustrasana-3"
+	],"fact":
+		["Increases kidney function",
+		"Increases Lung capacity",
+		"Relieves menstrual pain and the symptoms of Menopause"
+	],
+	"mp3name": "ustrasana"
+  },
+  {
+	"id": "dhanurasana",
+	"name": "Dhanurāsana",
+	"headline": "Bow Pose",
+	"description": "A backbend: from a prone position, get hold of your feet ( thumbs on the same side as fingers) to lift the legs and chest. Your body is forming the shape of a bow with your arms representing the bowstring",
+	"instructions": "",
+	"contra": "",
+	"link": "https://en.wikipedia.org/wiki/dhanurasana",
+	"image": "dhanurasana-main",
+	"gallery": [
+	  "dhanurasana-1",
+	  "dhanurasana-2",
+	  "dhanurasana-3",
+	  "dhanurasana-4"
+	],
+	"fact": [
+	  "Dhanurāsana fact 1.",
+	  "Dhanurāsana fact 2",
+	  "Dhanurāsana fact 3"
+	],
+	"mp3name": "dhanurasana"
+  },
+  {
+	"id": "halasana",
+	"name": "Halāsana",
+	"headline": "Plough (plow) Pose",
+	"description": "",
+	"instructions": "You need a blanket, block and belt; same set up as shoulder stand. Sit on your block, put your belt on before lying down on the raised surface. Then pull your knees towards you, take a swing, raise your legs and buttocks. Support your back with your hands, your elbows firmly on the raised surface; stretch your legs behind your head. Now open the back of your knees away from your face and straighten them. Stay on the very top of your toes, lift your chin a little and stretch up into your hips. To come out of the pose bend your knees and slowly unfurl your body to lie on your back",
+	"contra": "Avoid this pose during menstruation. Use a chair to support your legs if you have headaches, migraine, asthma, high blood pressure or are physically or mentally exhausted",
+	"link": "https://en.wikipedia.org/wiki/halasana",
+	"image": "8683967E-F8B7-4836-A956-6B6B2F5C5BDA",
+	"gallery": [
+	  "halasana-1",
+	  "halasana-2",
+	  "halasana-3",
+	  "halasana-4"
+	],
+	"fact": [
+	  "This asana helps to alleviate the effects of anxiety and fatigue.",
+	  "halāsana fact 2",
+	  "halāsana fact 3"
+	],
+	"mp3name": "halasana"
+  },
+  {
+	"id": "tadasana",
+	"name": "Tāḍāsana",
+	"headline": "Mountain Posture",
+	"description": "Stand upright with your feet, ankles, knees and thighs together and arms by your side, looking straight ahead. Feel a stillness in the pose and stand firm like mountain",
+	"instructions": "Stand upright, feet together, toes, ankles and heels touching. See that your body weight is spread evenly over the feetTighten your kneecaps and lift them up; shinbones in line with your thighbonesPress your front thighs backHave your spine erect and lift your chestarms straight down by your sides, in line with your hips.Roll your shoulder bones back, tuck your shoulder blades inNeck straight, head straightLook straight aheadLearn to have an overall glance over the whole body to feel its existence and nearness. Learn to distribute the weight evenly on the feet, soles and heels",
+	"contra": "if you have a problem with balance, practise the pose with your feet hip width apart.",
+	"link": "https://en.wikipedia.org/wiki/tadasana",
+	"image": "tadasana-main",
+	"gallery": [
+	  "tadasana-1",
+	  "tadasana-2",
+	  "tadasana-3",
+	  "tadasana-4"
+	],
+	"fact": [
+	  "Learn to have an overall glance over the whole body to feel its existence and nearness. Learn to distribute the weight evenly on the feet, soles and heels",
+	  "A standing pose, in which essential basic movements are learned for several other standing poses"
+	],
+	"mp3name": "tadasana"
+  },
+  {
+	"id": "utthita-t",
+	"name": "Utthita-trikoṇāsana",
+	"headline": "Extended Triangle Pose",
+	"description": "A standing pose, stretching your trunk and legs",
+	"instructions": "Stand in Tadasana, inhale and jump or step your feet  4 ft apart. Turn the left toes slightly in, turn your right leg from the top of the high out. Check, that the middle of the thigh, knee and ankle are in line with the instep of your left foot. Resist having the whole trunk following the rotation by turning the abdomen in the opposite direction. Inhale extend with your right arm over your right foot and place your hand on your shin. Turn your left shoulder back, lift your arm and stretch arms, palms and fingers up. Keep your trunk in line with your feet, relax  your ribs and stretch your spine and front body. Look up with both eyes. Stay for 5 inhalations. Push towards your left foot and come up. Rest your arms open your hips. Then repeat on the other side.",
+	"contra": "If you have dizzy spells, vertigo or high blood pressure keep looking at your out turned foot. Practise against a wall, if you have a cardiac condition",
+	"link": "https://en.wikipedia.org/wiki/utthita",
+	"image": "utthita-t-main",
+	"gallery": [
+	  "utthita-t-1",
+	  "utthita-t-2",
+	  "utthita-t-3",
+	  "utthita-t-4"
+	],
+	"fact": [
+	  "keep your heels in line with each other and your knees in line with the middle of your feet",
+	  "Rest your lower hand on your shin below your knee and keep your head in line with your foot",
+	  "Rotate your torso and keep your hand on your top hip until you feel steadier in the pose to begin with"
+	],
+	"mp3name": "utthita"
+  },
+  {
+	"id": "uttanasana",
+	"name": "Uttānāsana",
+	"headline": "Intense forward stretch",
+	"description": "Relieves mental and physical exhaustion.",
+	"instructions": "Standing upright you stretch forward and down with your hands and torso, letting your head be lower than your heart. Relieves mental and physical exhaustion.",
+	"contra": "If you have a spinal disc disorder, keep your spine long by supporting your hands under your shoulders (on blocks, if needed)",
+	"link": "https://en.wikipedia.org/wiki/uttanasana",
+	"image": "uttanasana-main",
+	"gallery": [
+	  "uttanasana-1",
+	  "uttanasana-2",
+	  "uttanasana-3",
+	  "uttanasana-4"
+	],
+	"fact": [
+	  "Work on the stretch of your thighs while keeping your kneecaps locked.",
+	  "Support your hands on a chair or blocks so that you can stretch your thighs away from your abdomen. That will take your torso closer to your legs.",
+	  "Let your head hang down and keep your neck long."
+	],
+	"mp3name": "uttanasana"
+  },
+  {
+	"id": "utthita-p",
+	"name": "Utthita-pārśva-koṇāsana",
+	"headline": "Extended side stretch",
+	"description": "In this standing pose, one leg is bend, the other is straight; the groins move away from each other and both sides of your body are stretched intensely",
+	"link": "https://en.wikipedia.org/wiki/utthita",
+	"instructions": "Correct distance between feet after jumping, correct alignment of bent leg and hip and turn of chest before raising upper arm. Using support for lower hand if necessary.",
+	"contra": "",
+	"image": "utthita-p-main",
+	"gallery": [
+	  "utthita-p-1",
+	  "utthita-p-2",
+	  "utthita-p-3",
+	  "utthita-p-4"
+	],
+	"fact": [
+	  "Avoid this asana, if you have high  blood pressure.",
+	  "Reduces fat on the waist and hips",
+	  "Keep your knees in line with the centre of your feet. Do not let your bend knee go further than your foot. While practicing the bending of the knee, try to aim for the little toe"
+	],
+	"mp3name": "utthita"
+  },
+  {
+	"id": "bharadvajasana",
+	"name": "Bharadvajasana",
+	"headline": "Lateral twist of the spine",
+	"description": "A kneeling spinal twist, that stretches the vertebral column, hip and shoulders. Regular practice increases flexibility of your back and torso and helps to relieve pain in the neck, shoulders and back",
+	"instructions": "You need a blanket and a block. From Dandasana, move your bent knees to the left close to your left hip. Put a rolled up blanket  under your right seat bone to level the tilt of your pelvis. Your left foot is on top of the instep of your right foot. Turn away from your legs, turning your ribcage with your left hand on your right knee, which should assist your turn. The right hand is behind you on the floor or block. Inhale and extend spine up; exhale and expand from your breastbone into your right armpit. Repeat on the other side.",
+	"contra": "Protect your knees with a belt behind your lower leg. Avoid when experiencing eye strain or a stress related migrain/headache",
+	"link": "https://en.wikipedia.org/wiki/bharadvajasana",
+	"image": "bharadvajasana_main",
+	"gallery": [
+	  "bharadvajasana-1",
+	  "bharadvajasana-2",
+	  "bharadvajasana-3",
+	  "bharadvajasana-4"
+	],
+	"fact": [
+	  "Massages and rejuvenates your abdominal organs",
+	  "Keep your left should back and level with the right shoulder. Both move away from your ears. Your neck is soft",
+	  "If you experience knee problems sit higher. Use a belt behind your knees."
+	],
+	"mp3name": "bharadvajasana"
+  },
+  {
+	"id": "virasana",
+	"name": "Vṛkṣāsana",
+	"headline": "Tree Pose",
+	"description": "Lengthens spine; mobilizes jointsBrings emotional and mental balance",
+	"instructions": "Vrksasanavrk-SHAH-sah-nah.",
+	"contra": "",
+	"link": "https://en.wikipedia.org/wiki/virasana",
+	"image": "virasana-main",
+	"gallery": [
+	  "virasana-1",
+	  "virasana-2",
+	  "virasana-3",
+	  "virasana-4"
+	],
+	"fact": [
+	  "vṛkṣāsana fact 1.",
+	  "vṛkṣāsana fact 2",
+	  "vṛkṣāsana fact 3"
+	],
+	"mp3name": "virasana"
+  },
+  {
+	"id": "gomukhasana",
+	"name": "Gomukhāsana",
+	"headline": "Cow Face Posture",
+	"description": "It expands the chest and extends the latissimus dorsi. It is also one of the best shoulder openers around.",
+	"instructions": "From kneeling on your heels: extend your right arm up and open your right chest with that lift. Turn your upper arm out, bend your elbow and bring your hand down between your shoulder blades. Keep your head lifted. Now turn your left shoulder back open your chest into your arm pit, bend the elbow and bring the back of your hand on your dorsal spine, trying to clasp hands with the other hand. Keep front and back body even. Then release and do the other side.",
+	"contra": "Difficult for tight shouldered people, use a belt if you cannot yet clasp your hands. Avoid if you have serious neck and shoulder problems",
+	"link": "https://en.wikipedia.org/wiki/gomukhasana",
+	"image": "gomukhasana-main",
+	"gallery": [
+	  "gomukhasana-1",
+	  "gomukhasana-2",
+	  "gomukhasana-3",
+	  "gomukhasana-4"
+	],
+	"fact": [
+	  "One of the best shoulder openers",
+	  "Difficult for tight shouldered people",
+	  "Avoid if you have serious neck or shoulder problems"
+	],
+	"mp3name": "gomukhasana"
+  },
+  {
+	"id": "adho-mukha-svanasana",
+	"name": "Adho Mukha Svanasana",
+	"headline": "Downward Facing Dog",
+	"description": "A standing pose, with your head down and your hips stretched up, that stretches your legs and spine. Calms the brains and gently stimulates the nerves.",
+	"instructions": "Kneel on your matt. Hands under your shoulder, palms and fingers firmly on the matt. Toes tucked under.Press on your hands and feet and lift your seat bones  towards the ceiling.Feel the length of your spine. Feel extension of arms and legs. Keep your abdomen slightly towards your spine. Breathe",
+	"contra": "Do not practice this asana in an advanced stage of pregnancy",
+	"link": "https://en.wikipedia.org/wiki/adho-mukha-svanasana",
+	"image": "adho-mukha-svanasana-main",
+	"gallery": [
+	  "adho-mukha-svanasana-1",
+	  "adho-mukha-svanasana-2",
+	  "adho-mukha-svanasana-3",
+	  "adho-mukha-svanasana-4"
+	],
+	"fact": [
+	  "Work on the stretch of your thighs while keeping your kneecaps locked.",
+	  "Support your hands on a chair or blocks so that you can stretch your thighs away from your abdomen. That will take your torso closer to your legs.",
+	  "Let your head hang down and keep your neck long"
+	],
+	"mp3name": "adhomukhasvanasana"
+  }
+]
+
