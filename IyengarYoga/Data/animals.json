@@ -2,9 +2,9 @@
 	"id": "dandasana",
 	"name": "Daṇḍāsana",
 	"headline": "Staff Pose",
-	"description": "Benefits: stretched hamstrings and spine.",
+	"description": "Benefits: stretched hamstrings and spine",
 	"instructions": "Use a blanket to sit on. Use your hands to pull the sides of your gluteus muscle to the side to sit fully on your seat bones.Place your palms on the floor besides your hips. Extend your legs out to the front; feet, ankles, knees and thighs together (staff). Lift your sternum, extend the sides of your ribs from your hips up to your armpits, lift your ribcage, role your shoulders back and away from your ears; keep your keep your head, neck and buttocks in a straight line. Look straight ahead and breath.",
-	"contra": "support your spine against a wall, if you are asthmatic or your spine has a tendency to sag.",
+	"contra": "support your spine against a wall, if you are asthmatic or your spine has a tendency to sag",
 	"link": "https://en.wikipedia.org/wiki/dandasana",
 	"image": "dandasana",
 	"gallery": ["dandasana-1",
@@ -14,9 +14,9 @@
 	
 	"fact":
 		[
-		"Relieves breathlessness, choking and throat congestion in asthmatics, reduces heartburn and flatulence, tones the abdominal organs and lifts sagging abdominal walls",
+		"Regular practice improves your posture when seated",
 		"Keep your fingers pointing forwards, allow your shoulder blades to move into your chest and down towards your waist, breath evenly",
-		"Regular practice improves your posture when seated"
+		"Relieves breathlessness, choking and throat congestion in asthmatics, reduces heartburn and flatulence, tones the abdominal organs and lifts sagging abdominal walls"
 		],
 	"mp3name": "dandasana"
   },
@@ -24,7 +24,7 @@
 	"id": "ustrasana",
 	"name": "Uṣṭrāsana",
 	"headline": "Camel",
-	"description": "Kneeling up you, bend backwards, steadying yourself with your palms on your feet. It Creates an uplifting opening in your chest and emotional centre",
+	"description": "A backbend that targets the upper chest: Creates an uplifting opening in your chest and emotional centre",
 	"instructions": "You bend backwards while kneeling up on your knees and shins. Kneel on a folded blanket or extra matt to be more comfortable , Practice with props (chair or hands on bolster) if you have a migraine, knee problems or are prone to insomnia, Regular practice will relieve stiffness in the back, shoulders and ankles",
 	"contra": "",
 	"link": "https://en.wikipedia.org/wiki/ustrasana",
@@ -66,8 +66,8 @@
 	"id": "halasana",
 	"name": "Halāsana",
 	"headline": "Plough (plow) Pose",
-	"description": "",
-	"instructions": "You need a blanket, block and belt; same set up as shoulder stand. Sit on your block, put your belt on before lying down on the raised surface. Then pull your knees towards you, take a swing, raise your legs and buttocks. Support your back with your hands, your elbows firmly on the raised surface; stretch your legs behind your head. Now open the back of your knees away from your face and straighten them. Stay on the very top of your toes, lift your chin a little and stretch up into your hips. To come out of the pose bend your knees and slowly unfurl your body to lie on your back",
+	"description": "Inversion that can be done with your toes on a chair first, where the lifted  hips are over your shoulders and straight legs are supported by your toes.",
+	"instructions": "You need a blanket, block and belt; same set up as shoulder stand. Sit on your block, put your belt on before lying down on the raised surface, hands turned round with fingers pointing towards your shoulders. Then pull your knees towards you, take a swing, raise your legs and buttocks. Support your back with your hands, your elbows firmly on the raised surface; stretch your legs behind your head. Now open the back of your knees away from your face and straighten them. Stay on the very top of your toes, lift your chin a little and stretch up into your hips. To come out of the pose bend your knees and slowly unfurl your body to lie on your back",
 	"contra": "Avoid this pose during menstruation. Use a chair to support your legs if you have headaches, migraine, asthma, high blood pressure or are physically or mentally exhausted",
 	"link": "https://en.wikipedia.org/wiki/halasana",
 	"image": "8683967E-F8B7-4836-A956-6B6B2F5C5BDA",
@@ -78,9 +78,9 @@
 	  "halasana-4"
 	],
 	"fact": [
+	  "The full pose is done before and after Salamba Sarvangasana (shoulderstand)",
 	  "This asana helps to alleviate the effects of anxiety and fatigue.",
-	  "halāsana fact 2",
-	  "halāsana fact 3"
+	  "Relieves pain in your fingers, wrists, elbows and shoulders."
 	],
 	"mp3name": "halasana"
   },
@@ -106,7 +106,7 @@
 	"mp3name": "tadasana"
   },
   {
-	"id": "utthita-t",
+	"id": "utthita-trikonasana",
 	"name": "Utthita-trikoṇāsana",
 	"headline": "Extended Triangle Pose",
 	"description": "A standing pose, stretching your trunk and legs",
@@ -150,7 +150,7 @@
 	"mp3name": "uttanasana"
   },
   {
-	"id": "utthita-p",
+	"id": "utthita-parsva-konasana",
 	"name": "Utthita-pārśva-koṇāsana",
 	"headline": "Extended side stretch",
 	"description": "In this standing pose, one leg is bend, the other is straight; the groins move away from each other and both sides of your body are stretched intensely",
@@ -213,7 +213,7 @@
 	  "vṛkṣāsana fact 2",
 	  "vṛkṣāsana fact 3"
 	],
-	"mp3name": "virasana"
+	"mp3name": "vrksasana"
   },
   {
 	"id": "gomukhasana",
@@ -253,9 +253,9 @@
 	  "adho-mukha-svanasana-4"
 	],
 	"fact": [
-	  "Work on the stretch of your thighs while keeping your kneecaps locked.",
-	  "Support your hands on a chair or blocks so that you can stretch your thighs away from your abdomen. That will take your torso closer to your legs.",
-	  "Let your head hang down and keep your neck long"
+	  "Take your abdomen back towards your spine.",
+	  "Calms the brains and gently stimulates the nerves.",
+	  "breath in and extend your spine, breath out and soften a little. Then repeat."
 	],
 	"mp3name": "adhomukhasvanasana"
   }
