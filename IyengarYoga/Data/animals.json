@@ -16,7 +16,7 @@
 		[
 		"Regular practice improves your posture when seated",
 		"Keep your fingers pointing forwards, allow your shoulder blades to move into your chest and down towards your waist, breath evenly",
-		"Relieves breathlessness, choking and throat congestion in asthmatics, reduces heartburn and flatulence, tones the abdominal organs and lifts sagging abdominal walls"
+		"relieves breathlessness, choking and throat congestion in asthmatics, reduces heartburn and flatulence, tones the abdominal organs and lifts sagging abdominal walls"
 		],
 	"mp3name": "dandasana"
   },
@@ -26,7 +26,7 @@
 	"headline": "Camel",
 	"description": "A backbend that targets the upper chest: Creates an uplifting opening in your chest and emotional centre",
 	"instructions": "You bend backwards while kneeling up on your knees and shins. Kneel on a folded blanket or extra matt to be more comfortable , Practice with props (chair or hands on bolster) if you have a migraine, knee problems or are prone to insomnia, Regular practice will relieve stiffness in the back, shoulders and ankles",
-	"contra": "",
+	"contra": "Do not practice when experiencing headaches or migraine",
 	"link": "https://en.wikipedia.org/wiki/ustrasana",
 	"image": "ustrasana-main",
 	"gallery": [
@@ -44,9 +44,9 @@
 	"id": "dhanurasana",
 	"name": "Dhanurāsana",
 	"headline": "Bow Pose",
-	"description": "A backbend: from a prone position, get hold of your feet ( thumbs on the same side as fingers) to lift the legs and chest. Your body is forming the shape of a bow with your arms representing the bowstring",
-	"instructions": "",
-	"contra": "",
+	"description": " A backbend: your body is forming the shape of a bow with your arms representing the bowstring",
+	"instructions": "Lie on your stomach, bend your knees and reach for your ankles, thumbs on the same side as fingers, then on an inhalation lift the legs and chest simultaneously. You balance on your abdomen. On an inhalation, try to lift your thighs further off the floor, lift your sternum, lift your chin and look up. Breath steadily.",
+	"contra": "This might be strong on your knees",
 	"link": "https://en.wikipedia.org/wiki/dhanurasana",
 	"image": "dhanurasana-main",
 	"gallery": [
@@ -56,9 +56,9 @@
 	  "dhanurasana-4"
 	],
 	"fact": [
-	  "Dhanurāsana fact 1.",
-	  "Dhanurāsana fact 2",
-	  "Dhanurāsana fact 3"
+	  "Use a belt to give more space between hands and ankles.",
+	  "Lifts your mood",
+	  "Renews mobility in your spine"
 	],
 	"mp3name": "dhanurasana"
   },
@@ -101,7 +101,8 @@
 	],
 	"fact": [
 	  "Learn to have an overall glance over the whole body to feel its existence and nearness. Learn to distribute the weight evenly on the feet, soles and heels",
-	  "A standing pose, in which essential basic movements are learned for several other standing poses"
+	  "A standing pose, in which essential basic movements are learned for several other standing poses",
+	  "Try lifting your toes slightly to shift the weight of your body to connect into the back of your body"
 	],
 	"mp3name": "tadasana"
   },
@@ -195,11 +196,11 @@
   },
   {
 	"id": "virasana",
-	"name": "Vṛkṣāsana",
-	"headline": "Tree Pose",
-	"description": "Lengthens spine; mobilizes jointsBrings emotional and mental balance",
-	"instructions": "Vrksasanavrk-SHAH-sah-nah.",
-	"contra": "",
+	"name": "Virasana",
+	"headline": "Hero Pose",
+	"description": "A forward bend performed kneeling up that lengthens spine; mobilizes joints, brings emotional and mental balance",
+	"instructions": "",
+	"contra": "Kneel on a folded matt if you feel the floor is too hard, use a rolled up blanket ( bolster or 2 blocks) under your seat bones on top of your ankles, if your knees are stiff or painful",
 	"link": "https://en.wikipedia.org/wiki/virasana",
 	"image": "virasana-main",
 	"gallery": [
@@ -209,11 +210,11 @@
 	  "virasana-4"
 	],
 	"fact": [
-	  "vṛkṣāsana fact 1.",
-	  "vṛkṣāsana fact 2",
-	  "vṛkṣāsana fact 3"
+	  "Your fore head is supported on a soft surface giving you the same height as your sacrum ( lower back).",
+	  "Keep your lower back firm and extend it forward",
+	  "Keep your palms and all of your fingers on the floor and lift your elbows"
 	],
-	"mp3name": "vrksasana"
+	"mp3name": "virasana"
   },
   {
 	"id": "gomukhasana",
@@ -231,9 +232,9 @@
 	  "gomukhasana-4"
 	],
 	"fact": [
-	  "One of the best shoulder openers",
-	  "Difficult for tight shouldered people",
-	  "Avoid if you have serious neck or shoulder problems"
+	  "Use a belt, if you cannot yet clasp your hands",
+	  "Expands the chest and creates mobility in the shoulders",
+	  "Full extension of the latissimus dorsi."
 	],
 	"mp3name": "gomukhasana"
   },
@@ -255,7 +256,7 @@
 	"fact": [
 	  "Take your abdomen back towards your spine.",
 	  "Calms the brains and gently stimulates the nerves.",
-	  "breath in and extend your spine, breath out and soften a little. Then repeat."
+	  "Breath in and extend your spine, breath out and soften a little. Then repeat."
 	],
 	"mp3name": "adhomukhasvanasana"
   }

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		75B428C3275C17FC00008B95 /* virasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 75B428C2275C17FC00008B95 /* virasana.mp3 */; };
 		75FC1CF42746B71000FFA7F0 /* ExternalWeblinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A104CC125193BDE00585C5E /* ExternalWeblinkView.swift */; };
 		75FC1CF52746B71000FFA7F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AA193E0250E68490048385D /* ContentView.swift */; };
 		75FC1CF62746B71000FFA7F0 /* AnimalListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABA6DAD25122CFA0055EC8F /* AnimalListItemView.swift */; };
@@ -122,6 +123,8 @@
 		7540F46B2742BB9D00E47C43 /* Gomukhasana-arms-only_video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gomukhasana-arms-only_video.mp4"; sourceTree = "<group>"; };
 		7540F46D2742D7DA00E47C43 /* tadasana.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = tadasana.mp4; sourceTree = "<group>"; };
 		7540F4712743CE6C00E47C43 /* InsetPlayMP3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetPlayMP3View.swift; sourceTree = "<group>"; };
+		7585806D27637B8F00F4D9ED /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		75B428C2275C17FC00008B95 /* virasana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = virasana.mp3; sourceTree = "<group>"; };
 		75FC1D352746B71000FFA7F0 /* IyengarYoga.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IyengarYoga.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		75FC1D362746B71100FFA7F0 /* IyengaYoga-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "IyengaYoga-Info.plist"; path = "/Users/johngoodstadt/Docs/Development/IyengarFromAfrica/SWIFTUI-APP-AFRICA/Completed/Africa/IyengaYoga-Info.plist"; sourceTree = "<absolute>"; };
 		75FC1D372746D45100FFA7F0 /* ViewModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifiers.swift; sourceTree = "<group>"; };
@@ -203,6 +206,7 @@
 		3AA193D2250E68490048385D = {
 			isa = PBXGroup;
 			children = (
+				7585806D27637B8F00F4D9ED /* README.md */,
 				3AA193DD250E68490048385D /* IyengarYoga */,
 				3AA193DC250E68490048385D /* Products */,
 				75FC1D362746B71100FFA7F0 /* IyengaYoga-Info.plist */,
@@ -281,6 +285,7 @@
 		750DD94E2743F03200D784D7 /* Audio */ = {
 			isa = PBXGroup;
 			children = (
+				75B428C2275C17FC00008B95 /* virasana.mp3 */,
 				750DD96C27446C2100D784D7 /* adhomukhasvanasana.mp3 */,
 				750DD95F27445C5000D784D7 /* bharadvajasana.mp3 */,
 				750DD96227445C5100D784D7 /* dhanurasana.mp3 */,
@@ -372,6 +377,7 @@
 				75FC1D2B2746B71000FFA7F0 /* tadasana.mp4 in Resources */,
 				75FC1D2C2746B71000FFA7F0 /* Assets.xcassets in Resources */,
 				75FC1D2E2746B71000FFA7F0 /* vrksasana.mp3 in Resources */,
+				75B428C3275C17FC00008B95 /* virasana.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -544,7 +550,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = IyengarYoga/IyengarYoga.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "\"IyengarYoga/Preview Content\"";
 				DEVELOPMENT_TEAM = 34GH77B7MS;
 				ENABLE_PREVIEWS = YES;
@@ -569,7 +575,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = IyengarYoga/IyengarYoga.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "\"IyengarYoga/Preview Content\"";
 				DEVELOPMENT_TEAM = 34GH77B7MS;
 				ENABLE_PREVIEWS = YES;
