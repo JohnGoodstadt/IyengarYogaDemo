@@ -6,3 +6,5 @@ SwiftUI version of existing app. New design, new code.
 - third change
 
 - Fourth CHange
+
+- Merge conflict line
