@@ -8,3 +8,6 @@ SwiftUI version of existing app. New design, new code.
 - Fourth CHange
 
 -GitFLow change - Feature Branch
+
+-GitFlow start command - resdme-gitflow-change2
+
