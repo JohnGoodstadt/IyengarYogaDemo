@@ -551,7 +551,6 @@
 				CODE_SIGN_ENTITLEMENTS = IyengarYoga/IyengarYoga.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
-				DEVELOPMENT_ASSET_PATHS = "\"IyengarYoga/Preview Content\"";
 				DEVELOPMENT_TEAM = 34GH77B7MS;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "IyengaYoga-Info.plist";
@@ -576,7 +575,6 @@
 				CODE_SIGN_ENTITLEMENTS = IyengarYoga/IyengarYoga.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
-				DEVELOPMENT_ASSET_PATHS = "\"IyengarYoga/Preview Content\"";
 				DEVELOPMENT_TEAM = 34GH77B7MS;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "IyengaYoga-Info.plist";
