@@ -47,7 +47,6 @@
 		75FC1D1B2746B71000FFA7F0 /* dandasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD9512743F0B500D784D7 /* dandasana.mp3 */; };
 		75FC1D1C2746B71000FFA7F0 /* tadasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD96127445C5100D784D7 /* tadasana.mp3 */; };
 		75FC1D1D2746B71000FFA7F0 /* locations.json in Resources */ = {isa = PBXBuildFile; fileRef = 3AA19406250E72990048385D /* locations.json */; };
-		75FC1D1E2746B71000FFA7F0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AA193E5250E684A0048385D /* Preview Assets.xcassets */; };
 		75FC1D1F2746B71000FFA7F0 /* bharadvajasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD95F27445C5000D784D7 /* bharadvajasana.mp3 */; };
 		75FC1D202746B71000FFA7F0 /* dhanurasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD96227445C5100D784D7 /* dhanurasana.mp3 */; };
 		75FC1D232746B71000FFA7F0 /* adhomukhasvanasana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 750DD96C27446C2100D784D7 /* adhomukhasvanasana.mp3 */; };
@@ -93,7 +92,6 @@
 		3AA193DE250E68490048385D /* IyengaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IyengaApp.swift; sourceTree = "<group>"; };
 		3AA193E0250E68490048385D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3AA193E2250E684A0048385D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		3AA193E5250E684A0048385D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3AA193E7250E684A0048385D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3AA19403250E72990048385D /* videos.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = videos.json; sourceTree = "<group>"; };
 		3AA19404250E72990048385D /* covers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = covers.json; sourceTree = "<group>"; };
@@ -236,17 +234,8 @@
 				750DD94E2743F03200D784D7 /* Audio */,
 				3AA193E2250E684A0048385D /* Assets.xcassets */,
 				3AA193E7250E684A0048385D /* Info.plist */,
-				3AA193E4250E684A0048385D /* Preview Content */,
 			);
 			path = IyengarYoga;
-			sourceTree = "<group>";
-		};
-		3AA193E4250E684A0048385D /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				3AA193E5250E684A0048385D /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
 			sourceTree = "<group>";
 		};
 		3AA193ED250E71A20048385D /* Video */ = {
@@ -368,7 +357,6 @@
 				75FC1D1B2746B71000FFA7F0 /* dandasana.mp3 in Resources */,
 				75FC1D1C2746B71000FFA7F0 /* tadasana.mp3 in Resources */,
 				75FC1D1D2746B71000FFA7F0 /* locations.json in Resources */,
-				75FC1D1E2746B71000FFA7F0 /* Preview Assets.xcassets in Resources */,
 				75FC1D1F2746B71000FFA7F0 /* bharadvajasana.mp3 in Resources */,
 				75FC1D202746B71000FFA7F0 /* dhanurasana.mp3 in Resources */,
 				75FC1D232746B71000FFA7F0 /* adhomukhasvanasana.mp3 in Resources */,
@@ -551,7 +539,6 @@
 				CODE_SIGN_ENTITLEMENTS = IyengarYoga/IyengarYoga.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
-				DEVELOPMENT_ASSET_PATHS = "\"IyengarYoga/Preview Content\"";
 				DEVELOPMENT_TEAM = 34GH77B7MS;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "IyengaYoga-Info.plist";
@@ -576,7 +563,6 @@
 				CODE_SIGN_ENTITLEMENTS = IyengarYoga/IyengarYoga.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
-				DEVELOPMENT_ASSET_PATHS = "\"IyengarYoga/Preview Content\"";
 				DEVELOPMENT_TEAM = 34GH77B7MS;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "IyengaYoga-Info.plist";
