@@ -11,3 +11,7 @@ SwiftUI version of existing app. New design, new code.
 
 -GitFlow start command - resdme-gitflow-change2
 
+-GitFlow - branch\cr0100 added
+
+-GitFlow - branch\cr0100b added
+
