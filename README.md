@@ -21,3 +21,5 @@ SwiftUI version of existing app. New design, new code.
 -GitFlow - branch\cr0100d added
 	no feature times 2
 	
+-Gitflow added hotfix 2.9.2	
+	
