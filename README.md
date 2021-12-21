@@ -17,3 +17,7 @@ SwiftUI version of existing app. New design, new code.
 
 -GitFlow - branch\cr0100c added
 	base level - just README.md changed
+
+-GitFlow - branch\cr0100d added
+	no feature times 2
+	
