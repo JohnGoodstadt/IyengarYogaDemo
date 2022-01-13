@@ -7,6 +7,12 @@ SwiftUI version of existing app. New design, new code.
 
 -- squash test 3
 
+-- test 4 
+
+
+-- test 5 3 to squash
+
+
 
 - second change to readme
 - third change
