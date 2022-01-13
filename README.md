@@ -1,6 +1,12 @@
 # IyengarYoga
 SwiftUI version of existing app. New design, new code.
 
+-- squash test
+--squash test 2
+
+
+
+
 
 - second change to readme
 - third change
