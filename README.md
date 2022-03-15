@@ -1,6 +1,8 @@
 # IyengarYoga
 SwiftUI version of existing app. New design, new code.
 
+READ ME CHANGE 1 March 2022
+
 
 - second change to readme
 - third change
@@ -23,3 +25,4 @@ SwiftUI version of existing app. New design, new code.
 	
 -Gitflow added hotfix 2.9.2	
 	
+
